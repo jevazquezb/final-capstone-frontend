@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Ducati rentals: Front-end
-This is the front end of the Ducati rentals app. This app allows users to sign-up or log in to select and reserve a bike model of their liking no matter what city they are in. Also, users can check their reservations in the reserve section. Additionally, if you don't like any of our models you can delete them or upload your own to rent them to other people.
+This is the front end of the Ducati rentals app. This app allows users to sign up or log in to select and reserve a bike model of their liking no matter what city they are in. Also, users can check their reservations in the reserve section. Additionally, if you don't like any of our models you can delete them or upload your own to rent them to other people.
 
 ## Live demo
 
