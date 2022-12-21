@@ -1,13 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Final Capstone Front-end
-This is the front end of the final capstone.
-The user can signup or login, then it will be redirected to the home page after a successful login. The user can see all the models of bikes on the page, after clicking them the user can add a reservasion to a specific bike and if the user wants to add a reservasion without going through this procces it can be done by a link on the navbar. Additionally, the user can see their reservations, and create or delete a bike.
-<hr>
+# Ducati rentals: Front-end
+This is the front end of the Ducati rentals app. This app allows users to signup or login to select and reserve a bike model of their liking no matter what city they are in. Also, users can check their reservations on the reserve section. Aditionally, if you don't like any of our models you can delete them or upload your own to rent them to other people.
 
 ## Live demo
 
 - [Ducati Rentals](https://ducati-rentals.netlify.app/)
-<hr>
 
 ## Api
 This app is done with a backend developed by our team.
@@ -24,7 +21,6 @@ This app is done with a backend developed by our team.
 -  Linters: Eslint
 -  Linters: [Stylent](https://stylelint.io/)
 -  Visual Studio Code (code editor)
-<hr>
 
 ## Getting Started
 
@@ -49,7 +45,7 @@ $ node --version
     In the terminal, navigate to where you wish the repo to be located and run these commands.
 
 ```
-$ git clone https://github.com/AbrahaKahsay/final-capstone-frontend.git
+$ git clone git@github.com:jevazquezb/final-capstone-frontend.git
 ```
 ```
 $ cd final-capstone-frontend
@@ -65,46 +61,45 @@ $ npm start
 👤 **Abraha Kahsay**
 
 - GitHub: [@AbrahaKahsay](https://github.com/AbrahaKahsay)
+- Twitter: [@@abraha_ka](https://twitter.com/abraha_ka)
+- LinkedIn: [@abraha-kahsay](https://www.linkedin.com/in/abraha-kahsay/)
 
 👤 **Alejandro Torres**
 
 - GitHub: [@aizjicod](https://github.com/aizjicod)
+- Twitter: [@aizijijr](https://twitter.com/aizijijr)
+- LinkedIn: [@aiziji](https://www.linkedin.com/in/aiziji/)
 
 👤 **Jesús Vázquez**
 
 - GitHub: [@jevazquezb](https://github.com/jevazquezb)
+- Twitter: [@javb_1187](https://twitter.com/javb_1187)
+- LinkedIn: [@jevazquezb](https://www.linkedin.com/in/jevazquezb)
 
 👤 **Lucas Costa Rodrigues**
 
 - GitHub: [@lucas-crodrigues](https://github.com/lucas-crodrigues)
-
 - Twitter: [@lcrodrigues58](https://twitter.com/lcrodrigues58)
-
 - LinkedIn: [Lucas Costa Rodrigues](https://www.linkedin.com/in/lucascostarodrigues/)
-<hr>
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-<hr>
 
 ## Show your support
 Give a ⭐️ if you like this project!
-<hr>
 
 ## Acknowledgments
 
 - [Microverse](https://github.com/microverseinc) team.
 - Coding Partners.
 - Code Reviewers.
-<hr>
 
 ## Design Template
 
 - Credits to [Murat Korkmaz on Behance](https://www.behance.net/muratk) the author of the [original design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
-<hr>
 
 ## 📝 License
 
